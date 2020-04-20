@@ -1,0 +1,4 @@
+export FLASK_APP=wikipedia.py
+flask translate init zh
+flask translate update
+flask translate compile
